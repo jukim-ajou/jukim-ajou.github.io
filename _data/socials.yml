@@ -1,4 +1,6 @@
 # this file contains the social media links and usernames of the author
+# for more information, refer to: https://github.com/george-gca/jekyll-socials
 email: jukim@ajou.ac.kr
-orcid: 0000-0002-6307-7481
+orcid_id: 0000-0002-6307-7481
+scopus_id: "57209011209"
 # scholar_userid: # Google Scholar ID - to be added later
