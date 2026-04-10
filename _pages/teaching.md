@@ -2,14 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses offered by Prof. Ju-Hyung Kim at Ajou University.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Current Courses
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Reinforced Concrete Structures
+**2026 Spring** | Undergraduate
 
-{% include courses.liquid %}
+This course covers the fundamental behavior and design of reinforced concrete structural members including beams, columns, slabs, and walls. Topics include flexural analysis, shear design, and serviceability, based on current design codes (KDS, ACI 318).
+
+---
+
+*More courses will be added as they are offered.*
